@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 123
+Evidence Number: 123
+Unique description: test
+Examiner: 123
+Notes: 123
+
+--------------------------------------------------------------
+
+Information for E:\evidence test:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 7,832
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 125,829,120
+[Physical Drive Information]
+ Drive Model: VMware Virtual NVMe Disk
+ Drive Serial Number: VMWare NVME_0000
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 61440 MB
+ Sector count:    125829120
+[Computed Hashes]
+ MD5 checksum:    8e3aa05a3c33e7f43c1929b76a2051cc
+ SHA1 checksum:   99eef54eee0bca6c5cbb037570a495387b7eb428
+
+Image Information:
+ Acquisition started:   Thu Oct 26 14:52:48 2023
+ Acquisition finished:  Thu Oct 26 15:10:01 2023
+ Segment list:
+  E:\evidence test.E01
+
+Image Verification Results:
+ Verification started:  Thu Oct 26 15:10:01 2023
+ Verification finished: Thu Oct 26 15:24:02 2023
+ MD5 checksum:    8e3aa05a3c33e7f43c1929b76a2051cc : verified
+ SHA1 checksum:   99eef54eee0bca6c5cbb037570a495387b7eb428 : verified
